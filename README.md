@@ -7,8 +7,9 @@ Implementation is in Rust/Python and published to PyPI.
 
 ## Installation
 
-The library is installable through PyPI
+The library is installable through PyPI.
 
 ````
 pip install pismo
 ````
+However, this is a source release and requires cargo/rustc to be on your PATH.
