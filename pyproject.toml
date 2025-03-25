@@ -1,13 +1,17 @@
 [project]
 name = "pismo"
 version = "0.0.1"
-description = "Add your description here"
+description = "Keep calm and π on!"
 readme = "README.md"
 authors = [
     { name = "rocketniko", email = "rocketniko@pm.me" }
 ]
 requires-python = ">=3.12"
+licence = "MIT"
 dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/rocketniko/pismo"
 
 [project.scripts]
 pismo = "pismo:main"
