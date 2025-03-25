@@ -10,6 +10,6 @@ Implementation is in Rust/Python and published to PyPI.
 The library is installable through PyPI.
 
 ````
-pip install pismo
+pip install pisvp
 ````
 However, this is a source release and requires cargo/rustc to be on your PATH.

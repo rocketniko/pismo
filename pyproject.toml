@@ -1,5 +1,5 @@
 [project]
-name = "pismo"
+name = "pisvp"
 version = "0.0.1"
 description = "Keep calm and π on!"
 readme = "README.md"
@@ -11,14 +11,14 @@ licence = "MIT"
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/rocketniko/pismo"
+Homepage = "https://github.com/rocketniko/pisvp"
 
 [project.scripts]
-pismo = "pismo:main"
+pisvp = "pisvp:main"
 
 [tool.maturin]
-module-name = "pismo._core"
-python-packages = ["pismo"]
+module-name = "pisvp._core"
+python-packages = ["pisvp"]
 python-source = "src"
 
 [build-system]

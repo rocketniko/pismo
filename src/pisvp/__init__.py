@@ -1,7 +1,7 @@
 
-from pismo import _core
+from pisvp import _core
 
-from pismo._core import *
+from pisvp._core import *
 
 import argparse
 
